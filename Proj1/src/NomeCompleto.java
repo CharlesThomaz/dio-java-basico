@@ -1,4 +1,4 @@
-package edu.charles.maio;
+
 import java.util.Scanner;
 
 public class NomeCompleto {
