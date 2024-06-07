@@ -1,0 +1,77 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ConsultaMedica",
+            "request": "launch",
+            "mainClass": "ConsultaMedica",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "BoletimEstudantil",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "ListaDeEmails",
+            "request": "launch",
+            "mainClass": "ListaDeEmails",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "Matematica",
+            "request": "launch",
+            "mainClass": "Matematica",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "Metodos",
+            "request": "launch",
+            "mainClass": "Metodos",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "NomeCompleto",
+            "request": "launch",
+            "mainClass": "NomeCompleto",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "SobreMim",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "Proj1_5ec5b442"
+        }
+    ]
+}
