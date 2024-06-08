@@ -1,3 +1,4 @@
+package basico;
 
 
 public class TiposVariaveis {

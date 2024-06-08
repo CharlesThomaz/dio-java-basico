@@ -1,3 +1,4 @@
+package basico;
 /**
  * Esta classe representa um exemplo simples de uma calculadora.
  * 

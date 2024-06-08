@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploForEach",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.ExemploForEach",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "DecrementoFor",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.DecrementoFor",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.ExemploForArray",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.ExemploFor",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.App",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.PlanoOperadora",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedir",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.SistemaMedir",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.SistemaMedida",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "ResultadosEscolares",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.ResultadosEscolares",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscola",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.ResultadoEscola",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "ConsultaMedica",
+            "request": "launch",
+            "mainClass": "projetovoz.ConsultaMedica",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.ResultadoEscolar",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "estruturasrepeticao.CaixaEletronico",
+            "projectName": "Proj1_5ec5b442"
+        },
+        {
+            "type": "java",
             "name": "ConsultaMedica",
             "request": "launch",
             "mainClass": "ConsultaMedica",
