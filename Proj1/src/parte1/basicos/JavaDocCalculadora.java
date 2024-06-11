@@ -1,4 +1,4 @@
-package parte1.basico;
+package basicos;
 /**
  * Esta classe representa um exemplo simples de uma calculadora.
  * 

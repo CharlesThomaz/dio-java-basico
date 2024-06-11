@@ -1,4 +1,4 @@
-package parte1.basico;
+package basicos;
 
 
 

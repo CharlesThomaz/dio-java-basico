@@ -1,7 +1,8 @@
-package parte1.estruturascondicionais;
+package basicos;
 
 
-public class ResultadosEscolares {
+
+public class ResultadoEscolar {
 	public static void main(String[] args) {
 		Resultado1();
 		Resultado2();
